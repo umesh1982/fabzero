@@ -4,3 +4,4 @@ At first some intoduction about fabzero lab at 11.30am .
 First we visited the fav lab. and seen differnt types of machines like CNC,band saw,scroll saw,laser cutter,3D printer.
 
 ![](image/index.jpg)
+![](image/3dprinter.jph)
