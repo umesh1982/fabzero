@@ -1,3 +1,5 @@
+# About me
+Workinfg as Technical asst. at IIIT Bhubaneswar since september 2011.Takes  differents types of Electronics lab such as Analog Electronic,Digital Electronic,Analog Comm.,Digital comm,Digital signal processing. My hubby is to design different types of electronics circuit .
 # Umesh swain first experience at STPI BHUBANESWAR on dt 18/03/2019.
 Joined fabzero programme on dt 18/3/2019 at stpi bhubaneswar.
 At first some intoduction about fabzero lab at 11.30am .
