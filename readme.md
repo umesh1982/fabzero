@@ -12,3 +12,4 @@ Scroll saw used to cut intricate curved in wood or other material.
 # DAY 2 dt 19/03/2019
 Down load the visual studio code and install it.
 Spell check code install sucessfully.
+Open the visual studio code and write the documentation sucessfully and check the spell using spell check coder.
