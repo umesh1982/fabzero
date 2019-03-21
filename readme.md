@@ -13,3 +13,8 @@ Scroll saw used to cut intricate curved in wood or other material.
 Down load the visual studio code and install it.
 Spell check code install sucessfully.
 Open the visual studio code and write the documentation sucessfully and check the spell using spell check coder.
+Git software install sucessfully.
+Able to upload image using visual studio code.
+#DAY 3 dt 20/03/2019
+Install the Kicad software successfully.
+Open the kicad software go the file new project and save in a file.
