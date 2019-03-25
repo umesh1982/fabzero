@@ -9,7 +9,6 @@ Band saw has a sharp blade consisting of a continuous band of toothed metal stre
 Scroll saw used to cut intricate curved in wood or other material.
 
 ![](image/index.jpg)
-# DAY 2 dt 19/03/2019
 Down load the visual studio code and install it.
 Spell check code install sucessfully.
 Open the visual studio code and write the documentation sucessfully and check the spell using spell check coder.
@@ -18,13 +17,11 @@ Able to upload image using visual studio code.
 Inkspace and cura software download and install sucessfully.
 Frank explain about vinyl cutter .
 How to roll keep in side the cutter and how to operate the cutter? Then all the trainers are try to set up the roll.
-# DAY 3 dt 20/03/2019
 Open the inkspace  softeare .
 Click on the file and open the new file write my name using inkspace software.
 After sucessfully write my name the go to google side and open fabmodule.org.
 Go to image(.png) then output former then ronald vinyl(.camm) then process then velocity 20 then calculate the save in mi document file.After save took the svae file using pendrive and load in frank laptop which already connected with vinyl vutter machine and complete my project file. 
 Install the Kicad software successfully.
 Open the kicad software go the file new project and save in a newolder.
-# DAY 4 dt 21/03/2019
 Seen different objects which are used for PCB design machine(monoFab).
 Web camera,vernier caliper,cupper board,scacrificial board,double side tape,3D scaner(which has a sensor and two camera),globes,cleaner,brush,sesissor,fira blanket(which made in borax materials).
