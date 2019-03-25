@@ -9,6 +9,7 @@ Band saw has a sharp blade consisting of a continuous band of toothed metal stre
 Scroll saw used to cut intricate curved in wood or other material.
 
 ![](image/index.jpg)
+![](image/printer.jpg)
 Down load the visual studio code and install it.
 Spell check code install sucessfully.
 Open the visual studio code and write the documentation sucessfully and check the spell using spell check coder.
@@ -24,4 +25,7 @@ Go to image(.png) then output former then ronald vinyl(.camm) then process then 
 Install the Kicad software successfully.
 Open the kicad software go the file new project and save in a newolder.
 Seen different objects which are used for PCB design machine(monoFab).
-Web camera,vernier caliper,cupper board,scacrificial board,double side tape,3D scaner(which has a sensor and two camera),globes,cleaner,brush,sesissor,fira blanket(which made in borax materials).
+Web camera,vernier caliper,cupper board,scacrificial board,double side tape,3D scaner(which has a sensor and two camera),globes,cleaner,brush,sesissor,fira blanket(which made in borax materials)
+Open the kicad software.
+Go to layer manger and select Edge.cuts 
+
