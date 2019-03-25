@@ -24,6 +24,7 @@ Click on the file and open the new file write my name using inkspace software.
 After sucessfully write my name the go to google side and open fabmodule.org.
 Go to image(.png) then output former then ronald vinyl(.camm) then process then velocity 20 then calculate the save in mi document file.After save took the svae file using pendrive and load in frank laptop which already connected with vinyl vutter machine and complete my project file. 
 Install the Kicad software successfully.
-Open the kicad software go the file new project and save in a file.
+Open the kicad software go the file new project and save in a newolder.
 # DAY 4 dt 21/03/2019
-
+Seen different objects which are used for PCB design machine(monoFab).
+Web camera,vernier caliper,cupper board,scacrificial board,double side tape,3D scaner(which has a sensor and two camera),globes,cleaner,brush,sesissor,fira blanket(which made in borax materials).
