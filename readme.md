@@ -25,7 +25,7 @@ Install the Kicad software successfully.
 Seen different objects which are used for PCB design machine(monoFab).
 Web camera,vernier caliper,cupper board,scacrificial board,double side tape,3D scaner(which has a sensor and two camera),globes,cleaner,brush,scissor,fire blanket(which made in borax materials)
 ## Open the kicad software.
-Create a new project: File - New - Project. Name the project file .
+. Create a new project: File - New - Project. Name the project file .
 Begin by creating a schematic. Start the schematic editor Eeschema.
 We will now place our first component.
 Click on the middle of  schematic . A  Symbol window will appear on the screen. We’re going to place a resistor. Search / filter on the 'R' of Resistor. 
