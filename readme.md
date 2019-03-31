@@ -20,11 +20,17 @@ How to roll keep in side the cutter and how to operate the cutter? Then all the 
 Open the inkspace  softeare .
 Click on the file and open the new file write my name using inkspace software.
 After sucessfully write my name the go to google side and open fabmodule.org.
-Go to image(.png) click output former click ronald vinyl(.camm) click process then velocity 20 then calculate the save in mi document file.After save took the svae file using pendrive and load in frank laptop which already connected with vinyl vutter machine and complete my project file. 
+Go to image(.png) click output former click ronald vinyl(.camm) click process then velocity 20 then calculate the save in mi document file.After save took the svae file using pendrive and load in frank laptop which already connected with vinyl cutter machine and complete my project file. 
 Install the Kicad software successfully.
-Open the kicad software go the file new project and save in a newolder.
 Seen different objects which are used for PCB design machine(monoFab).
-Web camera,vernier caliper,cupper board,scacrificial board,double side tape,3D scaner(which has a sensor and two camera),globes,cleaner,brush,sesissor,fira blanket(which made in borax materials)
+Web camera,vernier caliper,cupper board,scacrificial board,double side tape,3D scaner(which has a sensor and two camera),globes,cleaner,brush,scissor,fire blanket(which made in borax materials)
 Open the kicad software.
-Go to layer manger and select Edge.cuts 
+Create a new project: File - New - Project. Name the project file .
+Begin by creating a schematic. Start the schematic editor Eeschema.
+We will now place our first component.
+Click on the middle of  schematic . A  Symbol window will appear on the screen. We’re going to place a resistor. Search / filter on the 'R' of Resistor. 
+Right click in the middle of the component and select Properties → Edit Value.
+The Edit Value  window will appear. Replace the current value 'R' with value. Click OK.
+ In case any mistake and want to delete a component, right click on the component and click 'Delete'.
+
 
