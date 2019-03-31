@@ -17,7 +17,7 @@ Able to upload image using visual studio code.
 Inkspace and cura software download and install sucessfully.
 Frank explain about vinyl cutter .
 How to roll keep in side the cutter and how to operate the cutter? Then all the trainers are try to set up the roll.
-Open the inkspace  softeare .
+## Open the inkspace  softeare .
 Click on the file and open the new file write my name using inkspace software.
 After sucessfully write my name the go to google side and open fabmodule.org.
 Go to image(.png) click output former click ronald vinyl(.camm) click process then velocity 20 then calculate the save in mi document file.After save took the svae file using pendrive and load in frank laptop which already connected with vinyl cutter machine and complete my project file. 
@@ -31,6 +31,14 @@ We will now place our first component.
 Click on the middle of  schematic . A  Symbol window will appear on the screen. We’re going to place a resistor. Search / filter on the 'R' of Resistor. 
 Right click in the middle of the component and select Properties → Edit Value.
 The Edit Value  window will appear. Replace the current value 'R' with value. Click OK.
- In case any mistake and want to delete a component, right click on the component and click 'Delete'.
+In case any mistake and want to delete a component, right click on the component and click 'Delete'.
+Right click on the second resistor. Select 'Drag'. Left click to drop. 
+Repeat the add-component , select the 'microchip_attiny 45'.
+Repeat the add-component , picking the 'LED' component from it.
+Place the power and ground symbols. Click on the 'Place power port' button.
+Repeat the add-pin  select the GND part.
+
+
+
 
 
