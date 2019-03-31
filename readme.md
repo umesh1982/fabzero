@@ -17,14 +17,14 @@ Able to upload image using visual studio code.
 Inkspace and cura software download and install sucessfully.
 Frank explain about vinyl cutter .
 How to roll keep in side the cutter and how to operate the cutter? Then all the trainers are try to set up the roll.
-## Open the inkspace  softeare .
+ Open the inkspace  software .
 Click on the file and open the new file write my name using inkspace software.
 After sucessfully write my name the go to google side and open fabmodule.org.
 Go to image(.png) click output former click ronald vinyl(.camm) click process then velocity 20 then calculate the save in mi document file.After save took the svae file using pendrive and load in frank laptop which already connected with vinyl cutter machine and complete my project file. 
 Install the Kicad software successfully.
 Seen different objects which are used for PCB design machine(monoFab).
 Web camera,vernier caliper,cupper board,scacrificial board,double side tape,3D scaner(which has a sensor and two camera),globes,cleaner,brush,scissor,fire blanket(which made in borax materials)
-Open the kicad software.
+## Open the kicad software.
 Create a new project: File - New - Project. Name the project file .
 Begin by creating a schematic. Start the schematic editor Eeschema.
 We will now place our first component.
